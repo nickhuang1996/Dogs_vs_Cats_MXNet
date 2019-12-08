@@ -1,4 +1,5 @@
 # Dogs_vs_Cats_MXNet
+![](misc/woof_meow.jpg)
 # Introduction
 - This repository is for kaggle `Dogs vs. Cats` match, but you can utilize this code to learn how to use `mxnet`. 
 - For network, I has estabilished the structure containing the introduction of pre-trained models like `VGG` and `ResNet`.
