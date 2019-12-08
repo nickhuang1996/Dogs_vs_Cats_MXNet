@@ -5,7 +5,7 @@
 - For network, I has estabilished the structure containing the introduction of pre-trained models like `VGG` and `ResNet`.
 - For sampler, there are 2 types which are `Sequential` and `Random`.
 - For lr_scheduler, I has coded 4 types to adjust the learning rate for the optimizer.
-- For optimizer, `Adam` and `SGD` are only illustrated in my repository.
+- For optimizer, only `Adam` and `SGD` are illustrated in my repository.
 
 # Environment
 - Python 3.6
